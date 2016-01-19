@@ -1,0 +1,1 @@
+# stronaLaTeX_lkarczewski
