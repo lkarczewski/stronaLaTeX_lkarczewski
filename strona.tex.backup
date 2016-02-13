@@ -1,10 +1,146 @@
-\documentclass{article}
+\documentclass[a4paper,10pt]{article}
 \usepackage[T1]{fontenc}
-\usepackage[polish]{babel}
 \usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{titlepic}
+\usepackage{url}
+\usepackage[table,xcdraw]{xcolor}
+
+\title{XLI OLIMPIADA GEOGRAFICZNA 2014/2015 SPOŁECZNO-GOSPODARCZE UWARUNKOWANIA ROZWOJU GMINY KIWITY I GMINY LUBOMINO}
+\author{Łukasz Karczewski}
+
 \begin{document}
-  \title{Fascynujący świat LaTeXa}
-  \author{Łukasz Karczewski}
-  \maketitle
+
+\maketitle
+\newpage
+\tableofcontents
+\newpage
+
+\section{Wstęp}
+  Gmina jest podstawową jednostką samorządu terytorialnego w Polsce. 
+  Stopień rozwoju gmin jest jednym z wykładników rozwoju większych jednostek administracyjnych : powiatów i województw. 
+  Bardzo często jednak w ocenie osiągniętego postępu gospodarczego wymienia się inwestycje głównych miast w Polsce. 
+  Tymczasem progres w tej najmniejszej skali jest dużo ważniejszy dla obywateli, ponieważ dotyczy ich codziennych problemów.
+  Warto przyjrzeć się uwarunkowaniom rozwoju w najsłabiej rozwiniętym regionie Polski : województwie warmińsko-mazurskim. 
+  Województwo te nie ma rozwiniętego przemysłu i bazy surowcowej, co czyni je nieatrakcyjnym na rynku pracy. 
+  Rolnictwo oraz branża usług i turystyki mimo dużego potencjału wciąż pozostają niedofinansowanie i przez to niekonkurencyjne w skali krajowej. 
+  Od przystąpienia Polski do Unii Europejskiej w 2004 roku jednostki samorządu terytorialnego dzięki dotacjom starają się zmienić ten niekorzystny obraz 
+  i zaczynają wykorzystywać potencjał swojego regionu.
+\section{Uzasadnienie wyboru gmin}
+  Głównym kryterium wyboru Gmin Kiwity i Lubomino było ich podobieństwo na płaszczyźnie administracyjnej, demograficznej, gospodarczej i komunikacyjnej. 
+  Są to gminy wiejskie leżące w tym samym województwie i powiecie, o zbliżonej liczbie ludności i powierzchni oraz gospodarce opierającej się głównie na rolnictwie. 
+  Z uwagi na to, że są położone w tej samej jednostce administracyjnej można porównać operatywność miejscowych działaczy, 
+  którzy mają do dyspozycji podobne środki ze wspólnego źródła, jakim są finanse województwa.
+\section{Ogólna charakterystyka gospodarek wybranych gmin}
+  \subsection{Społeczno-gospodarcza charakterystyka gminy Kiwity}
+    Gmina Kiwity położona jest w powiecie lidzbarskim w północnej części  województwa warmińsko–mazurskiego. 
+    Graniczy ona z gminami: od zachodu –Lidzbark Warmiński, od północy - Bartoszyce, od wschodu – Bisztynek, od południa – Jeziorany (Mapa 1).
+    Powierzchnia gminy wynosi ok. 145 km2. Jej powierzchnia stanowi 0,6\% powierzchni województwa i 18\% powierzchni powiatu. Użytki rolne stanowią ponad 75\% areału. 
+    Pozostałe 15\% stanowią tereny leśne. Jest to gmina typowo rolnicza o wysokim potencjale przyrodniczym do produkcji rolnej.
+    Według danych GUS z 2012 roku, gminę zamieszkiwało 3417 osób, a gęstość zaludnienia wynosiła 24 osoby na $1 km^{2}$.
+    Najważniejsze walory przyrodniczo-krajobrazowe stanowią tereny Użytku Ekologicznego Bartniki z uwagi na miejsca lęgowe wielu rzadkich gatunków ptaków (Zdjęcie 1).
+    Najciekawszą atrakcją turystyczną gminy jest Bazylika Nawiedzenia Najświętszej Maryi Panny w Stoczku Klasztornym, odwiedzana przez turystów z Polski i Europy (Zdjęcie 2).
+    Gmina połączona jest z miastem Bartoszyce oraz przejściem granicznym w Bezledach drogą krajową nr 51. 
+    Droga krajowa i  wojewódzka nr 513 łączy gminę z Lidzbarkiem Warmińskim. Droga ta stanowi nadrzędny układ komunikacyjny wiążący gminę z układem dróg szybkiego ruchu. 
+    Pozostałe drogi w gminie to drogi powiatowe i gminne, które wiążą miejscowości z ośrodkami usługowymi rozmieszczonymi na jej terenie (Mapa 2).
+    W Gminie Kiwity pracujących jest 138 osób. Liczba zarejestrowanych osób bezrobotnych wynosi 265 co stanowi 11,8\% ludności w wieku produkcyjnym. 
+    Pozostała część ludności zajmuje się rolnictwem.W dotychczasowym rozwoju gminy główna funkcją gospodarczą i źródłem utrzymania ludności było rolnictwo. 
+    Na obszarze gminy położonych jest około 500 gospodarstw. W ostatnich latach rozwinęła się przedsiębiorczość i drobne zakłady usługowo-produkcyjne. 
+    Na terenie Gminy Kiwity są zarejestrowane 142 firmy . Są to firmy działające w sektorze rolniczym, przemysłowym i budowlanym. 
+    Największymi podmiotami gospodarczymi w gminie są F.H.U. „Stemar” oraz F.H.U. „Animar”. 
+    Firmy te zajmują się działalnością handlowo-usługową, głównie sprzedażą artykułów budowlanych oraz skupem zboża.
+  \subsection{Społeczno-gospodarcza charakterystyka gminy Lubomino}
+    Gmina Lubomino jest gminą położoną w północnej części województwa warmińsko-mazurskiego. 
+    Graniczy z gminami: Orneta, Lidzbark Warmiński, Dobre Miasto, Świątki oraz Miłakowo (Mapa 3).
+    Główny Urząd Statystyczny podaje, że w 2012 roku ludność gminy wynosiła 3659 osób. Gęstość zaludnienia wynosiła 24 osoby na $1 km^{2}$.
+    Powierzchnia gminy to około 149 km2. Użytki rolne stanowią ok. 82\% powierzchni gminy. Pozostałe 18\% to tereny leśne. 
+    Jest to gmina o profilu rolniczym z elementami przemysłu.
+    Główną atrakcją turystyczno-przyrodniczą gminy jest Jezioro Tonka o powierzchni 162 ha (Zdjęcie 3).
+    Gmina Lubomino jest bezpośrednio połączona z miastami Orneta i Dobre Miasto drogą krajową nr 507. Drogi wewnętrzne stanowią połączenia między wioskami wewnątrz gminy. 
+    Na terenie gminy są dwa przystanki kolejowe: w Lubominie i Rogiedlach, wraz z bocznicami. 
+    Połączenie kolejowe wykorzystywane jest przez osoby dojeżdżające do Olsztyna i Dobrego Miasta (Mapa 4). 
+    W Gminie Lubomino pracujących jest 214 osób. Zarejestrowane bezrobocie wynosi 16,3\%. 
+    Pozostała część ludności zajmuje się rolnictwem. Na terenie gminy położonych jest 507 indywidualnych gospodarstw rolnych.
+    Wśród 193 zarejestrowanych podmiotów gospodarczych z sektora rolniczego, przemysłowego i budowlanego największymi są F.H.U. „Lemar” oraz Przedsiębiorstwo Produkcyjne „Siat-Tom”. 
+    F.H.U. „Lemar” zajmuje się sprzedażą drewna i węgla, natomiast Przedsiębiorstwo Produkcyjne „Siat-Tom” wytwarza gotowe wyroby metalowe.
+    
+\section{Budżety wybranych gmin}
+  \subsection{Budżet gminy Kiwity}
+    Deficyt budżetu gminy wynosi 1 923 877 zł. 
+    Zostanie pokryty przychodami pochodzącymi z wolnych środków w wysokości 1 680 000 zł, 
+    nadwyżki budżetu jednostki samorządu terytorialnego z lat ubiegłych w wysokości 11 623 zł, oraz kredytów w wysokości 232 254 zł.
+    Planuje się uzyskać środki z Funduszu Spójności oraz innych funduszy strukturalnych Unii Europejskiej na realizację inwestycji w gminie na kwotę 652 636 zł.
+
+  \subsection{Budżet gminy Lubomino}
+    Deficyt budżetu gminy wynosi 248 405 zł i zostanie pokryty przychodami z zaciągniętego kredytu i pożyczki.
+    Planuje się uzyskać środki z Funduszu Spójności oraz innych funduszy strukturalnych Unii Europejskiej na realizację inwestycji w gminie na kwotę 625 378 zł.
+  
+  \subsection{Porównanie budżetów gminy Kiwity i gminy Lubomino}
+    Dochody gminy Lubomino są wyższe niż dochody gminy Kiwity. 
+    Może wynikać to z większej ilości zarejestrowanych podmiotów gospodarczych, a przez to większych wpływów z podatków (Tabela 1 i Tabela 3).
+    Wydatki gminy Kiwity nieznacznie przewyższają wydatki gminy Lubomino. 
+    Jednakże przy niższe dochody co powodują również różnicę w deficytach budżetowych na niekorzyść gminy Kiwity. 
+    W obydwu gminach deficyt zostanie pokryty przychodami z zaciągniętych kredytów i pożyczek (Tabela 2 i Tabela 4).
+    Ilość środków, które planuje się pozyskać z funduszów Unii Europejskiej w obydwu gminach jest na zbliżonym poziomie.
+    
+\section{Bariery i czynniki rozwoju wybranych gmin}
+  \subsection{Bariery i czynniki rozwoju gminy Kiwity}
+    Czynniki rozwoju:
+    
+    \begin{itemize}
+     \item Bardzo korzystne warunki przyrodniczo-rolnicze
+     \item Dobrze prosperujące gospodarstwa rolne
+     \item Połączenie z przejściem granicznym w Bezledach
+     \item Niewielka odległość od miasta powiatowego (15 km)
+     \item Rozwój przedsiębiorczości mieszkańców
+     \item Obecność obiektów i terenów o walorach turystycznych (Użytek ekologiczny w Bartnikach, Bazylika w Stoczku Klasztornym)
+     \item Walory przyrodniczo-krajobrazowe stwarzają warunki do rozwoju agroturystki
+    \end{itemize}
+    
+    Bariery rozwojowe:
+    \begin{itemize}
+     \item Brak większych zakładów przemysłowych i przetwórczych na terenie gminy
+     \item Brak bazy surowcowej dla rozwoju przemysłu
+     \item Zły stan infrastruktury drogowej
+     \item Rozproszenie osadnictwa
+     \item Migracja osób wykształconych
+     \item Wysoki odsetek osób korzystający z pomocy społecznej
+     \item Niskie nakłady inwestycyjne
+    \end{itemize}
+    
+    Najważniejszym czynnikiem rozwoju gminy są jej korzystne warunki przyrodniczo-rolnicze, które wpływają na zamożność mieszkańców, 
+    których głównym zajęciem jest rolnictwo.
+    Największą barierą rozwojową są niskie nakłady inwestycyjne, bez których gmina nie może się dynamicznie rozwijać. 
+    Wynika to z wysokiego odsetka osób korzystających z pomocy społecznej, na którą wydawane jest więcej pieniędzy niż na inwestycje.
+   
+  \subsection{Bariery i czynniki rozwoju gminy Lubomino}
+    Czynniki rozwoju:
+    
+    \begin{itemize}
+     \item Bardzo korzystne warunki dla rozwoju rolnictwa
+     \item Rozwijająca się przedsiębiorczość produkcyjna i usługowa
+     \item Rozwinięta infrastruktura techniczno-ekonomiczna gminy
+     \item Obecność linii kolejowej na terenie gminy
+    \end{itemize}
+    
+    Bariery rozwojowe:
+    \begin{itemize}
+     \item Wysoki odsetek bezrobocia
+     \item Duża liczba osób korzystająca z pomocy społecznej
+     \item Migracja ludności wykształconej z terenu gminy
+     \item Zły stan infrastruktury drogowej
+     \item Niewielkie walory turystyczne
+     \item Peryferyjne położenie gminy
+     \item Niewielka ilość pieniędzy przeznaczona na inwestycje
+    \end{itemize}
+    
+    Głównym czynnikiem rozwoju gminy jest rozwinięta infrastruktura techniczno-ekonomiczna, 
+    która umożliwia rozwój lokalnych przedsiębiorstw oraz stwarza warunki do tworzenia nowych podmiotów gospodarczych.
+    Największą barierą rozwojową niskie nakłady inwestycyjne, które mogłyby pomóc gminie w tempie jej rozwoju.
+  
+\section{Zakończenie}
+\section{Bibliografia}
+\section{Wybrane wzory geograficzne}
 
 \end{document}
