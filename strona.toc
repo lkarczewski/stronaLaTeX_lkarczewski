@@ -13,3 +13,15 @@
 \contentsline {section}{\numberline {6}Zako\IeC {\'n}czenie}{12}
 \contentsline {section}{\numberline {7}Bibliografia}{13}
 \contentsline {section}{\numberline {8}Wybrane wzory geograficzne}{13}
+\contentsline {subsection}{\numberline {8.1}Wsp\IeC {\'o}\IeC {\l }cznynnik spadku terenu pomi\IeC {\k e}dzy dwoma punktami wyra\IeC {\.z}ony w procentach}{13}
+\contentsline {subsection}{\numberline {8.2}Obliczanie wysoko\IeC {\'s}ci g\IeC {\'o}rowania S\IeC {\l }o\IeC {\'n}ca}{13}
+\contentsline {subsection}{\numberline {8.3}Obliczanie bilansu wodnego}{14}
+\contentsline {subsection}{\numberline {8.4}Przyrost naturalny}{14}
+\contentsline {subsection}{\numberline {8.5}Wsp\IeC {\'o}\IeC {\l }cznynnik przyrostu naturalnego}{14}
+\contentsline {subsection}{\numberline {8.6}Saldo migracji}{14}
+\contentsline {subsection}{\numberline {8.7}Przyrost rzeczywisty}{15}
+\contentsline {subsection}{\numberline {8.8}Wsp\IeC {\'o}\IeC {\l }cznynnik feminizacji}{15}
+\contentsline {subsection}{\numberline {8.9}Wsp\IeC {\'o}\IeC {\l }cznynnik maskulinizacji}{15}
+\contentsline {subsection}{\numberline {8.10}G\IeC {\k e}sto\IeC {\'s}\IeC {\'c} zaludnienia na danym obszarze}{15}
+\contentsline {subsection}{\numberline {8.11}Plony}{15}
+\contentsline {subsection}{\numberline {8.12}Bilans handlowy}{15}
